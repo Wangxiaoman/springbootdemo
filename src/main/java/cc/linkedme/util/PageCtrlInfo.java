@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.util;
+package cc.linkedme.util;
 
 import java.io.Serializable;
 import org.apache.commons.lang.builder.ToStringBuilder;

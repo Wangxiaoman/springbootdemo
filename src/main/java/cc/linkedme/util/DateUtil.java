@@ -1,7 +1,7 @@
 /*
  * Copyright 2007 HUAPU (http://www.huapu.com) 
  */
-package com.ehomepay.stamp.util;
+package cc.linkedme.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

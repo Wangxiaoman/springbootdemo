@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.aop;
+package cc.linkedme.aop;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

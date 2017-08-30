@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.util;
+package cc.linkedme.util;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;

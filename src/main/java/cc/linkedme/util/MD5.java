@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.util;
+package cc.linkedme.util;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

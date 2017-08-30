@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.task;
+package cc.linkedme.task;
 
 import org.apache.log4j.Logger;
 import org.springframework.scheduling.annotation.Scheduled;

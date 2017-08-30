@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.aop;
+package cc.linkedme.aop;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -10,8 +10,8 @@ import org.apache.log4j.Logger;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
-import com.ehomepay.stamp.constants.CommonStatus;
-import com.ehomepay.stamp.constants.ResultJson;
+import cc.linkedme.constants.CommonStatus;
+import cc.linkedme.constants.ResultJson;
 
 public class LoginInterceptor extends HandlerInterceptorAdapter {
     private static final Logger LOGGER = Logger.getLogger(LoginInterceptor.class);

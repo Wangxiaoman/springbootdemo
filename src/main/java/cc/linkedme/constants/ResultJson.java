@@ -1,4 +1,4 @@
-package com.ehomepay.stamp.constants;
+package cc.linkedme.constants;
 
 import com.alibaba.fastjson.JSONObject;
 
